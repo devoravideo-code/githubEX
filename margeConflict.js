@@ -7,6 +7,6 @@ const func2 = ()=>{
 }
 
 const func3 = ()=>{
-    console.log("Function 3 was changed!");
+    //the line that was here deleted by branch feature-2
     console.log("Additional line in func3");
 }
