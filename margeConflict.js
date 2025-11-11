@@ -10,3 +10,7 @@ const func3 = () =>{
     console.log("function 3");
     
 }
+
+const func4 = () =>{
+    console.log("function 4");
+}
